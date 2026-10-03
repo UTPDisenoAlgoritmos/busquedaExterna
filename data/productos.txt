@@ -1,0 +1,12 @@
+P101,Laptop Lenovo,2500,10
+P102,Mouse Logitech,85,35
+P103,Teclado Redragon,160,20
+P104,Monitor Samsung,950,8
+P105,SSD Kingston,280,25
+P106,Memoria RAM 16GB,220,30
+P107,Webcam Logitech,180,12
+P108,Audifonos HyperX,320,15
+P109,Impresora Epson,750,6
+P110,Router TP-Link,190,18
+P111,Tablet Samsung,1200,9
+P112,Laptop HP,2800,7
