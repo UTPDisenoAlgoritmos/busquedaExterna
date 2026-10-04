@@ -1,0 +1,7 @@
+pe\edu\utp\busqueda\App.class
+pe\edu\utp\busqueda\BusquedaPorHashExterno.class
+pe\edu\utp\busqueda\BusquedaPorBloques.class
+pe\edu\utp\busqueda\ComparadorMetricas.class
+pe\edu\utp\busqueda\BusquedaConIndice.class
+pe\edu\utp\busqueda\Metricas.class
+pe\edu\utp\busqueda\ResultadoBusqueda.class
